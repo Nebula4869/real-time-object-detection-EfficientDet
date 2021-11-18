@@ -1,4 +1,4 @@
-# real-time_object_detection_EfficientDet
+# real-time-object-detection-EfficientDet
 Real-time object detection using COCO-pretrained EfficientDet under Pytorch and TensorFlow
 ### Environment
 
